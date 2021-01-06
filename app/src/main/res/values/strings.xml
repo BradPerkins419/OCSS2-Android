@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OCSS2 Android</string>
+    <string name="offline">Offline</string>
+    <string name="no_network">No Network</string>
+
+
+    <string name="ocss_url">www.ocssohio.com</string>
+    <string name="ocss_url_full">https://ocssohio.com/</string>
+
+    <string name="noapp_heading">App not found.</string>
+    <string name="noapp_description">No App on this device can carry out this action.</string>
+
+
+</resources>
